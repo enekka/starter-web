@@ -1,13 +1,15 @@
-Lorem ipsum dolor amet 8-bit aesthetic letterpress shoreditch echo park williamsburg 3 wolf moon meggings flexitarian roof party organic occupy. Prism locavore migas pug synth knausgaard. Snackwave vexillologist tilde, meditation shabby chic gochujang chillwave. Yr tattooed XOXO cray narwhal you probably haven't heard of them banjo shoreditch distillery freegan pork belly microdosing direct trade taxidermy etsy. Tousled polaroid tumeric lyft, yr semiotics butcher.
+import turtle
+print ('how many?')
+times = int(input())
+print ('Side')
+side = int(input())
+print ('angle')
+angle = int(input())
+for i in range(0,times):
+    turtle.forward(side)
+    turtle.right(angle)
+    side=side+1
 
-Flannel fanny pack health goth butcher hot chicken chillwave vaporware pour-over leggings flexitarian tousled chartreuse lo-fi deep v direct trade. Venmo pinterest PBR&B vape, echo park ramps literally pug 3 wolf moon skateboard iPhone bespoke mlkshk semiotics. Poutine lo-fi affogato disrupt gastropub hexagon ugh four dollar toast vape glossier poke flannel blog ramps knausgaard. Shabby chic godard tilde, readymade four loko taiyaki plaid glossier fanny pack kale chips cardigan viral chicharrones cornhole. Scenester brunch vice, retro kogi butcher YOLO semiotics tumblr organic. Gochujang poke post-ironic selfies.
+echo "<html><h1>The World is Over</h1></html>" > index.html
 
-Migas pabst cronut portland single-origin coffee iPhone. Hoodie hot chicken asymmetrical irony shaman. Authentic pour-over knausgaard distillery, pok pok farm-to-table post-ironic jianbing blog woke austin church-key hammock. Jean shorts ugh edison bulb blog hammock scenester. Cliche stumptown slow-carb enamel pin cornhole whatever vegan tumblr crucifix gastropub narwhal. Food truck man braid chartreuse messenger bag celiac taiyaki freegan mumblecore.
-
-Chartreuse paleo letterpress cronut, kickstarter cray chicharrones brooklyn selvage vexillologist. Prism put a bird on it meditation, tattooed hell of squid kinfolk. Cronut vegan fanny pack pour-over. Gochujang you probably haven't heard of them quinoa brooklyn.
-
-Prism portland jianbing, lyft photo booth DIY vexillologist narwhal kickstarter viral. PBR&B aesthetic freegan flannel swag vexillologist. Lyft pitchfork schlitz ethical bushwick PBR&B austin tilde master cleanse tattooed blue bottle cold-pressed lo-fi. Cornhole semiotics banh mi, migas shaman neutra flexitarian pug meggings celiac venmo chillwave.
-
-Oh. You need a little dummy text for your mockup? How quaint.
-
-I bet you’re still using Bootstrap too…
+172.31.0.0/16
