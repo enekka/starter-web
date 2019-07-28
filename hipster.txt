@@ -1,5 +1,5 @@
 import turtle
-print ('how many turtles?????')
+print ('how many turtles there ?????')
 times = int(input())
 print ('Side')
 side = int(input())
