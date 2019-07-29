@@ -8,4 +8,5 @@ Introduction Added
 New changes added
 
 ## How To Contribute
-New changes once more
+New changes oncemore
+Please fork this repo
