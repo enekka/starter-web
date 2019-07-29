@@ -1,0 +1,15 @@
+import turtle
+print ('how many turtles there ?????')
+times = int(input())
+print ('Side')
+side = int(input())
+print ('angle')
+angle = int(input())
+for i in range(0,times):
+    turtle.forward(side)
+    turtle.right(angle)
+    side=side+1
+
+echo "<html><h1>The World is Over</h1></html>" > index.html
+
+172.31.0.0/16
