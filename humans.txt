@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    malik -- <role> -- <twitter>
 
 # THANKS
 
