@@ -2,3 +2,4 @@ Remote change
 Remote change2
 local change3 : stashing
 local change
+remote change
